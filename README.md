@@ -73,4 +73,5 @@ To provide a **low-cost, intuitive, and real-time hazard detection system** for 
 ## 🧪 Summary
 
 This project provides a **reliable and affordable** solution for visually impaired users navigating indoor spaces. Its modular design allows future upgrades (like voice alerts or vibration feedback) while maintaining a simple, effective core functionality.
+**Please refer to the docx file for complete report on the project**
 
